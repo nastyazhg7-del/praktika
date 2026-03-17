@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\Z3P\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAAC9DF-6221-EC00-A492-51D0CB6D94DF}|Z3P\\Z3P.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\z3p\\z3p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAAC9DF-6221-EC00-A492-51D0CB6D94DF}|Z3P\\Z3P.csproj|solutionrelative:z3p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\Z3P\\Z3P\\Program.cs",
+              "RelativeDocumentMoniker": "Z3P\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\Z3P\\Z3P\\Program.cs",
+              "RelativeToolTip": "Z3P\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:55:54.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

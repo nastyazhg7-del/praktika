@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\практика c#\Z4P\Z4P\bin\Debug\net10.0\Z4P.exe
+C:\Users\User\Desktop\практика c#\Z4P\Z4P\bin\Debug\net10.0\Z4P.deps.json
+C:\Users\User\Desktop\практика c#\Z4P\Z4P\bin\Debug\net10.0\Z4P.runtimeconfig.json
+C:\Users\User\Desktop\практика c#\Z4P\Z4P\bin\Debug\net10.0\Z4P.dll
+C:\Users\User\Desktop\практика c#\Z4P\Z4P\bin\Debug\net10.0\Z4P.pdb
+C:\Users\User\Desktop\практика c#\Z4P\Z4P\obj\Debug\net10.0\Z4P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\практика c#\Z4P\Z4P\obj\Debug\net10.0\Z4P.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\практика c#\Z4P\Z4P\obj\Debug\net10.0\Z4P.AssemblyInfo.cs
+C:\Users\User\Desktop\практика c#\Z4P\Z4P\obj\Debug\net10.0\Z4P.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\практика c#\Z4P\Z4P\obj\Debug\net10.0\Z4P.dll
+C:\Users\User\Desktop\практика c#\Z4P\Z4P\obj\Debug\net10.0\refint\Z4P.dll
+C:\Users\User\Desktop\практика c#\Z4P\Z4P\obj\Debug\net10.0\Z4P.pdb
+C:\Users\User\Desktop\практика c#\Z4P\Z4P\obj\Debug\net10.0\Z4P.genruntimeconfig.cache
+C:\Users\User\Desktop\практика c#\Z4P\Z4P\obj\Debug\net10.0\ref\Z4P.dll

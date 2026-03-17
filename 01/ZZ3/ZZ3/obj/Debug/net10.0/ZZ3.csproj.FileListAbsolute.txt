@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\практика c#\ZZ3\ZZ3\bin\Debug\net10.0\ZZ3.exe
+C:\Users\User\Desktop\практика c#\ZZ3\ZZ3\bin\Debug\net10.0\ZZ3.deps.json
+C:\Users\User\Desktop\практика c#\ZZ3\ZZ3\bin\Debug\net10.0\ZZ3.runtimeconfig.json
+C:\Users\User\Desktop\практика c#\ZZ3\ZZ3\bin\Debug\net10.0\ZZ3.dll
+C:\Users\User\Desktop\практика c#\ZZ3\ZZ3\bin\Debug\net10.0\ZZ3.pdb
+C:\Users\User\Desktop\практика c#\ZZ3\ZZ3\obj\Debug\net10.0\ZZ3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\практика c#\ZZ3\ZZ3\obj\Debug\net10.0\ZZ3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\практика c#\ZZ3\ZZ3\obj\Debug\net10.0\ZZ3.AssemblyInfo.cs
+C:\Users\User\Desktop\практика c#\ZZ3\ZZ3\obj\Debug\net10.0\ZZ3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\практика c#\ZZ3\ZZ3\obj\Debug\net10.0\ZZ3.dll
+C:\Users\User\Desktop\практика c#\ZZ3\ZZ3\obj\Debug\net10.0\refint\ZZ3.dll
+C:\Users\User\Desktop\практика c#\ZZ3\ZZ3\obj\Debug\net10.0\ZZ3.pdb
+C:\Users\User\Desktop\практика c#\ZZ3\ZZ3\obj\Debug\net10.0\ZZ3.genruntimeconfig.cache
+C:\Users\User\Desktop\практика c#\ZZ3\ZZ3\obj\Debug\net10.0\ref\ZZ3.dll
