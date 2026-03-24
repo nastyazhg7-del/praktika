@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\практика c#\2AOCD\Z7\bin\Debug\net10.0\Z7.exe
+C:\Users\User\Desktop\практика c#\2AOCD\Z7\bin\Debug\net10.0\Z7.deps.json
+C:\Users\User\Desktop\практика c#\2AOCD\Z7\bin\Debug\net10.0\Z7.runtimeconfig.json
+C:\Users\User\Desktop\практика c#\2AOCD\Z7\bin\Debug\net10.0\Z7.dll
+C:\Users\User\Desktop\практика c#\2AOCD\Z7\bin\Debug\net10.0\Z7.pdb
+C:\Users\User\Desktop\практика c#\2AOCD\Z7\obj\Debug\net10.0\Z7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\практика c#\2AOCD\Z7\obj\Debug\net10.0\Z7.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\практика c#\2AOCD\Z7\obj\Debug\net10.0\Z7.AssemblyInfo.cs
+C:\Users\User\Desktop\практика c#\2AOCD\Z7\obj\Debug\net10.0\Z7.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\практика c#\2AOCD\Z7\obj\Debug\net10.0\Z7.dll
+C:\Users\User\Desktop\практика c#\2AOCD\Z7\obj\Debug\net10.0\refint\Z7.dll
+C:\Users\User\Desktop\практика c#\2AOCD\Z7\obj\Debug\net10.0\Z7.pdb
+C:\Users\User\Desktop\практика c#\2AOCD\Z7\obj\Debug\net10.0\Z7.genruntimeconfig.cache
+C:\Users\User\Desktop\практика c#\2AOCD\Z7\obj\Debug\net10.0\ref\Z7.dll

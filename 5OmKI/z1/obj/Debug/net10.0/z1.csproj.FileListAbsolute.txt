@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\практика c#\5OmKI\z1\bin\Debug\net10.0\z1.exe
+C:\Users\User\Desktop\практика c#\5OmKI\z1\bin\Debug\net10.0\z1.deps.json
+C:\Users\User\Desktop\практика c#\5OmKI\z1\bin\Debug\net10.0\z1.runtimeconfig.json
+C:\Users\User\Desktop\практика c#\5OmKI\z1\bin\Debug\net10.0\z1.dll
+C:\Users\User\Desktop\практика c#\5OmKI\z1\bin\Debug\net10.0\z1.pdb
+C:\Users\User\Desktop\практика c#\5OmKI\z1\obj\Debug\net10.0\z1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\практика c#\5OmKI\z1\obj\Debug\net10.0\z1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\практика c#\5OmKI\z1\obj\Debug\net10.0\z1.AssemblyInfo.cs
+C:\Users\User\Desktop\практика c#\5OmKI\z1\obj\Debug\net10.0\z1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\практика c#\5OmKI\z1\obj\Debug\net10.0\z1.dll
+C:\Users\User\Desktop\практика c#\5OmKI\z1\obj\Debug\net10.0\refint\z1.dll
+C:\Users\User\Desktop\практика c#\5OmKI\z1\obj\Debug\net10.0\z1.pdb
+C:\Users\User\Desktop\практика c#\5OmKI\z1\obj\Debug\net10.0\z1.genruntimeconfig.cache
+C:\Users\User\Desktop\практика c#\5OmKI\z1\obj\Debug\net10.0\ref\z1.dll

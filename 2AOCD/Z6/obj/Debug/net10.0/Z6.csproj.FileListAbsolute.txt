@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\практика c#\2AOCD\Z6\bin\Debug\net10.0\Z6.exe
+C:\Users\User\Desktop\практика c#\2AOCD\Z6\bin\Debug\net10.0\Z6.deps.json
+C:\Users\User\Desktop\практика c#\2AOCD\Z6\bin\Debug\net10.0\Z6.runtimeconfig.json
+C:\Users\User\Desktop\практика c#\2AOCD\Z6\bin\Debug\net10.0\Z6.dll
+C:\Users\User\Desktop\практика c#\2AOCD\Z6\bin\Debug\net10.0\Z6.pdb
+C:\Users\User\Desktop\практика c#\2AOCD\Z6\obj\Debug\net10.0\Z6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\практика c#\2AOCD\Z6\obj\Debug\net10.0\Z6.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\практика c#\2AOCD\Z6\obj\Debug\net10.0\Z6.AssemblyInfo.cs
+C:\Users\User\Desktop\практика c#\2AOCD\Z6\obj\Debug\net10.0\Z6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\практика c#\2AOCD\Z6\obj\Debug\net10.0\Z6.dll
+C:\Users\User\Desktop\практика c#\2AOCD\Z6\obj\Debug\net10.0\refint\Z6.dll
+C:\Users\User\Desktop\практика c#\2AOCD\Z6\obj\Debug\net10.0\Z6.pdb
+C:\Users\User\Desktop\практика c#\2AOCD\Z6\obj\Debug\net10.0\Z6.genruntimeconfig.cache
+C:\Users\User\Desktop\практика c#\2AOCD\Z6\obj\Debug\net10.0\ref\Z6.dll

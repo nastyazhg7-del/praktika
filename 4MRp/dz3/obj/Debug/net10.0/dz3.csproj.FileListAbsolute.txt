@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\практика c#\4MRp\dz3\obj\Debug\net10.0\dz3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\практика c#\4MRp\dz3\obj\Debug\net10.0\dz3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\практика c#\4MRp\dz3\obj\Debug\net10.0\dz3.AssemblyInfo.cs
+C:\Users\User\Desktop\практика c#\4MRp\dz3\obj\Debug\net10.0\dz3.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="dz1/dz1.csproj" />
+  <Project Path="dz2/dz2.csproj" />
+  <Project Path="dz3new/dz3new.csproj" />
+  <Project Path="z1/z1.csproj" />
+  <Project Path="z2/z2.csproj" />
+  <Project Path="z3/z3.csproj" />
+  <Project Path="z4/z4.csproj" />
+  <Project Path="z5/z5.csproj" />
+</Solution>

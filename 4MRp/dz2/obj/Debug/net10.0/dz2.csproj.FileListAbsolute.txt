@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\практика c#\4MRp\dz2\bin\Debug\net10.0\dz2.exe
+C:\Users\User\Desktop\практика c#\4MRp\dz2\bin\Debug\net10.0\dz2.deps.json
+C:\Users\User\Desktop\практика c#\4MRp\dz2\bin\Debug\net10.0\dz2.runtimeconfig.json
+C:\Users\User\Desktop\практика c#\4MRp\dz2\bin\Debug\net10.0\dz2.dll
+C:\Users\User\Desktop\практика c#\4MRp\dz2\bin\Debug\net10.0\dz2.pdb
+C:\Users\User\Desktop\практика c#\4MRp\dz2\obj\Debug\net10.0\dz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\практика c#\4MRp\dz2\obj\Debug\net10.0\dz2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\практика c#\4MRp\dz2\obj\Debug\net10.0\dz2.AssemblyInfo.cs
+C:\Users\User\Desktop\практика c#\4MRp\dz2\obj\Debug\net10.0\dz2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\практика c#\4MRp\dz2\obj\Debug\net10.0\dz2.dll
+C:\Users\User\Desktop\практика c#\4MRp\dz2\obj\Debug\net10.0\refint\dz2.dll
+C:\Users\User\Desktop\практика c#\4MRp\dz2\obj\Debug\net10.0\dz2.pdb
+C:\Users\User\Desktop\практика c#\4MRp\dz2\obj\Debug\net10.0\dz2.genruntimeconfig.cache
+C:\Users\User\Desktop\практика c#\4MRp\dz2\obj\Debug\net10.0\ref\dz2.dll

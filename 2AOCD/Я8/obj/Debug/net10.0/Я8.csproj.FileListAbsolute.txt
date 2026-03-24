@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\практика c#\2AOCD\Я8\bin\Debug\net10.0\Я8.exe
+C:\Users\User\Desktop\практика c#\2AOCD\Я8\bin\Debug\net10.0\Я8.deps.json
+C:\Users\User\Desktop\практика c#\2AOCD\Я8\bin\Debug\net10.0\Я8.runtimeconfig.json
+C:\Users\User\Desktop\практика c#\2AOCD\Я8\bin\Debug\net10.0\Я8.dll
+C:\Users\User\Desktop\практика c#\2AOCD\Я8\bin\Debug\net10.0\Я8.pdb
+C:\Users\User\Desktop\практика c#\2AOCD\Я8\obj\Debug\net10.0\Я8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\практика c#\2AOCD\Я8\obj\Debug\net10.0\Я8.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\практика c#\2AOCD\Я8\obj\Debug\net10.0\Я8.AssemblyInfo.cs
+C:\Users\User\Desktop\практика c#\2AOCD\Я8\obj\Debug\net10.0\Я8.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\практика c#\2AOCD\Я8\obj\Debug\net10.0\Я8.dll
+C:\Users\User\Desktop\практика c#\2AOCD\Я8\obj\Debug\net10.0\refint\Я8.dll
+C:\Users\User\Desktop\практика c#\2AOCD\Я8\obj\Debug\net10.0\Я8.pdb
+C:\Users\User\Desktop\практика c#\2AOCD\Я8\obj\Debug\net10.0\Я8.genruntimeconfig.cache
+C:\Users\User\Desktop\практика c#\2AOCD\Я8\obj\Debug\net10.0\ref\Я8.dll
